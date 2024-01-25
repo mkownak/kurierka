@@ -1,0 +1,32 @@
+.bodyy {
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.left-panel {
+    width: 60%;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.right-panel {
+    width: 35%;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.display-info {
+    margin-top: 20px;
+}
+
+
+
+.createformularz {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    background-color: #f9f9f9;
+}
